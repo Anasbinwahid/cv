@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(202, 235, 232);
+}
+
+.container{
+    background-color: rgb(245, 242, 239);
+    max-width: 95%;
+}
+
+img{
+    display: block;
+    width: 150px;
+    border: 2px rgb(206, 201, 211) solid;
+    border-radius: 19px;
+    float: none;
+    margin: auto;
+    box-shadow: 2px 4px 6px rgb(21, 207, 145);
+    
+}
+
+.header_img, .header_title, .header_contect {
+    display: block;
+    width: 100%;
+    float: none;
+    text-align: center;
+    position: relative;
+
+}
+.header_img{
+    background-color: #099c5f;
+}
+.header_title{
+    height: 120px;
+    background-color: turquoise;
+}
+.header_contect{
+    background-color: rgb(16, 16, 83);
+}
+.header_contect a{
+    color: white;
+}
+.header_contect a:hover{
+    color: rgb(185, 216, 46);
+}
+
+h1,h2,h3,h4,h5{
+    color: rgb(73, 69, 124);
+}
+
+.img2{
+    position: absolute;
+    top: 2px;
+    width: 100%;
+    z-index: -1;
+    opacity: ;
+}
+.hr_top{
+    display: none;
+}
+.main{
+    background-color: rgb(241, 214, 209);
+}
+
+.div_left {
+    width: 100%;  
+    float: none;
+    text-align: center;
+    padding: 30px;
+    }
+
+.div_right {
+width: 100%;  
+float: none;
+text-align: justify;
+padding: 10px;
+}
+
+.edu_div_left{
+    float: none;
+    width: 100%;
+    text-align: justify;
+    padding: 10px;
+}
+.edu_div_right{
+    float: none;
+    width: 100%;
+    text-align: justify;
+    padding: 10px;
+    
+}
+h2, h4{
+    text-align: center;
+}
+
